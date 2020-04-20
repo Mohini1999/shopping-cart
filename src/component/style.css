@@ -1,0 +1,45 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.navbar{
+  background-color: black;
+  color: white;
+  position: fixed;
+  display: fixed;
+  
+}
+.navbar-brand {
+  color: wheat;
+}
+.container {
+  padding: 20px;
+}
+.container h1{
+  font-family: 'Times New Roman';
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+  padding: 20px;
+  
+}
+.container div h4 {
+  font-family: 'times new roman';
+  text-align: left;
+}
+.container div{
+  text-align: left;
+  font-weight: bolder;
+  margin-left: 10px;
+}
+.abc{
+  position: fixed;
+  overflow: hidden;
+  width: -webkit-fill-available;
+  z-index: 1;
+}
+.App .row{
+  z-index:-1;
+   margin-Top:60px;
+  /* */
+}
